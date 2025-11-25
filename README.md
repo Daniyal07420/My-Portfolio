@@ -1,11 +1,11 @@
-🌟 Data Analyst Portfolio – Rana Daniyal
+### 🌟 Data Analyst Portfolio – Rana Daniyal ###
 
 Welcome to my Data Analyst Portfolio!
 Is repository me maine apne Data Analysis, Power BI, Python, SQL, aur Excel projects upload kiye hain.
 Ye portfolio meri learning journey, skills aur real-world analysis ka practical proof hai.
 
-📁 Projects Included
-1️⃣ Python + Power BI Project
+### 📁 Projects Included ###
+# 1️⃣ Python + Power BI Project #
 
 Data cleaning & preprocessing in Python
 
@@ -15,7 +15,7 @@ Interactive Power BI dashboard
 
 Key insights: (yahan ap apni findings likh skte ho)
 
-2️⃣ SQL + Power BI Project
+# 2️⃣ SQL + Power BI Project #
 
 Complex SQL queries
 
@@ -25,7 +25,7 @@ Power BI visualization
 
 Insights based on business KPIs
 
-3️⃣ Excel Dashboard Project
+# 3️⃣ Excel Dashboard Project #
 
 Data cleaning in Excel
 
@@ -35,7 +35,7 @@ KPIs & trends
 
 Professional dashboard for business usage
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies #
 Category	Tools
 Programming	Python (Pandas, NumPy, Matplotlib)
 BI Tools	Power BI
@@ -50,11 +50,11 @@ Hiring managers ko real analysis dekhana
 
 Data Analytics field me apne practical experience ko highlight krna
 
-📬 Contact
+# 📬 Contact #
 
 Feel free to reach out if you want to collaborate or discuss any project!
 
-Email: your-email@example.com
+Email: daniyalinfo.com@gmail.com
 
-LinkedIn: your-linkedin-url
+LinkedIn: https://www.linkedin.com/in/rana-daniyal-720a43379/
 Portfolio Website: your-portfolio-url (agar apke pass ha)
