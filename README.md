@@ -58,3 +58,7 @@ Email: daniyalinfo.com@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/rana-daniyal-720a43379/
 Portfolio Website: your-portfolio-url (agar apke pass ha)
+
+
+
+![img alt](https://github.com/Daniyal07420/My-Portfolio/blob/main/Rana%20Daniyal-Portfolio.png)
